@@ -1,4 +1,52 @@
-# Fragment 碎片
-通过玩家收集碎片而达到游戏可玩性
-已支持:
-互相赠送 防小号刷碎片
+![Fancy](https://avatars3.githubusercontent.com/u/29701755?v=4&s=200)
+
+#FragMent是什么?
+
+<font color=#0099ff size=2 face="黑体">"简单介绍"</font>
+
+一款运行在PocketMine服务器上的插件
+
+可增加游戏乐趣且可以保留服主控制权
+
+
+#FragMent有哪些功能？
+
+<font color=#0099ff size=2 face="黑体">"核心玩法"</font>
+
+* 方便的`碎片管理`功能
+    *  服主可以在配置文件管理玩家的碎片数量
+    *  主文件可以调控碎片合成开关
+* 简单高效的`防小号`功能
+  *  玩家CID自动分辨,防小号互刷碎片
+* 配置高度自由`随意修改`服主完全自定义插件玩法
+ *  可控制的合成碎片名字
+ *  可控制的合成物品数量
+
+
+#有问题反馈
+
+<font color=#0099ff size=2 face="黑体">"欢迎提出意见"</font>
+
+在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
+
+* 邮件(2290657746@qq.com)
+* QQ: 2290657746
+
+##更多好玩实用插件
+关于<b>FancyDream</b>其它作品
+
+* [PointCard 点卡](https://github.com/Cansll/PointCard) 
+* [CkLottery 彩票](https://github.com/Cansll/CkLottery)
+* [ItemFrameNoDrop 防物品栏掉落](https://github.com/FancyDreamTeam/ItemFrameNoDrop)
+* [FancyMail 登入邮箱](https://github.com/MagicBloodFly/FancyMail)
+
+##关于作者
+
+```javascript
+  var FancyDream = {
+    Name  : "Magic雪飞",
+    GitHub : "http://github.com/MagicBloodFLY"
+  }
+```
+
+<font color=#48D1CC size=6 face="粗体">"感谢支持"</font>
