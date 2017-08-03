@@ -3,11 +3,8 @@
 #FragMent是什么?
 
 <font color=#0099ff size=2 face="黑体">"简单介绍"</font>
-
 一款运行在PocketMine服务器上的插件
-
 可增加游戏乐趣且可以保留服主控制权
-
 <b>FragMent有哪些功能？</b>
 
 <font color=#0099ff size=2 face="黑体">"核心玩法"</font>
