@@ -16,7 +16,7 @@
  *  可控制的合成物品数量
 
 
-***有问题反馈***
+**有问题反馈**
 
 <font color=#0099ff size=2 face="黑体">"欢迎提出意见"</font>
 
@@ -26,6 +26,7 @@
 * QQ: 2290657746
 
 **更多好玩实用插件**
+
 关于<b>FancyDream</b>其它作品
 
 * [PointCard 点卡](https://github.com/Cansll/PointCard) 
