@@ -3,8 +3,8 @@
 <h1>FragMent是什么?</h1>
 一款运行在PocketMine服务器上的插件
 可增加游戏乐趣且可以保留服主控制权
+
 <b>FragMent有哪些功能？</b>
-<font color=#0099ff size=2 face="黑体">"核心玩法"</font>
 
 * 方便的`碎片管理`功能
     *  服主可以在配置文件管理玩家的碎片数量
