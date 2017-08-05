@@ -16,7 +16,7 @@
  *  可控制的合成物品数量
 
 
-#有问题反馈
+***有问题反馈***
 
 <font color=#0099ff size=2 face="黑体">"欢迎提出意见"</font>
 
@@ -25,7 +25,7 @@
 * 邮件(2290657746@qq.com)
 * QQ: 2290657746
 
-##更多好玩实用插件
+**更多好玩实用插件**
 关于<b>FancyDream</b>其它作品
 
 * [PointCard 点卡](https://github.com/Cansll/PointCard) 
@@ -33,7 +33,7 @@
 * [ItemFrameNoDrop 防物品栏掉落](https://github.com/FancyDreamTeam/ItemFrameNoDrop)
 * [FancyMail 登入邮箱](https://github.com/MagicBloodFly/FancyMail)
 
-##关于作者
+**关于作者**
 
 ```javascript
   var FancyDream = {
@@ -42,4 +42,4 @@
   }
 ```
 
-<font color=#48D1CC size=6 face="粗体">"感谢支持"</font>
+
