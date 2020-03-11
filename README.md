@@ -1,4 +1,4 @@
-![Fancy](http://www.funmc.cc/frag.png)
+![Fancy](https://github.com/MagicBloodFly/BlockMoney/blob/master/src/XF/JL/Fancy.png?raw=true)
 
 <h1>FragMent是什么?</h1>
 一款运行在PocketMine服务器上的插件
