@@ -42,7 +42,7 @@
     * 获取玩家当前可抽取的次数`$this->frag->getNumber($name);`
     
 * Finally
-   * 把你写好的的插件与FragMent一起安装,享受搜集插件的乐趣
+   * 把你写好的的插件与FragMent一起安装,享受碎片插件的乐趣
 
 </br>
 
