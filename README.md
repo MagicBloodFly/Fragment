@@ -29,7 +29,7 @@
 
 **现已全面支持PocketMine`3.0`API**
 
-如果您是开发者,那么您将可以使用碎片插件全新的API来获取你想要的的内容
+如果您是`开发者`,那么您将可以使用碎片插件全新的API来获取你想要的的内容
 
 * Firstly
     * 你必须在插件里面 `use\FragMent\FragMent;` 和 `$this->frag=FragMent::getInstance();`
