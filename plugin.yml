@@ -1,0 +1,13 @@
+name: Fragment
+version: 1.0.2
+author: "Magic雪飞"
+api: [3.0.0]
+main: Fragment\FragMent
+commands:
+ zh:
+  description: "召唤插件主指令"
+  usage: ""
+ 碎片:
+  description: "召唤插件副指令"
+  usage: ""
+ 
